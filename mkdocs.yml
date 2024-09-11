@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: Lamontagne Lab at Tufts University
+site_url: https://mydomain.org/mysite
+
+repo_name: LamontagneLab/lab-manual
+repo_url: https://github.com/LamontagneLab/lab-manual
+
+theme:
+  name: material
+  palette:
+    primary: blue
