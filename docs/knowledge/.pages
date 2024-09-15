@@ -1,5 +1,4 @@
 nav:
-  - Home:
-    - index.md
-    - cluster.md
-    - reading.md
+  - index.md
+  - cluster.md
+  - reading.md

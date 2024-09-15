@@ -1,8 +1,7 @@
 nav:
-  - Home:
-    - index.md
-    - joining.md
-    - onboarding.md
-    - degree.md
-    - univ.md
-    - Expectations and Lab Policies: 'expectations'
+  - index.md
+  - joining.md
+  - onboarding.md
+  - degree.md
+  - univ.md
+  - Expectations and Lab Policies: 'expectations'

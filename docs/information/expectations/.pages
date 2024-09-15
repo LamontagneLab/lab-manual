@@ -1,6 +1,5 @@
 nav:
-  - Home: 
-    - index.md
-    - expectations.md
-    - policies.md
-    - bestpractices.md
+  - index.md
+  - expectations.md
+  - policies.md
+  - bestpractices.md

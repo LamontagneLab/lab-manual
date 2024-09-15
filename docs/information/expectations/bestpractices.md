@@ -1,1 +1,1 @@
-# Best Practices Checklist
+# Best Practices

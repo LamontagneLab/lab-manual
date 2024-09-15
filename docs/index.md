@@ -1,10 +1,9 @@
 ---
 hide:
   - navigation
-  - toc
 ---
 
-# Welcome to the Lamontagne Lab Manual & Knowledge Base
+# Welcome to the Lamontagne Lab Manual
 
 For general information about the lab, please visit [https://sites.tufts.edu/systems/](https://sites.tufts.edu/systems/).
 
