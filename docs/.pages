@@ -1,6 +1,16 @@
 nav:
   - Home: 
-    - index.md
-    - communities.md
-  - Information for Lab Members: 'information'
-  - Knowledge Base: 'knowledge'
+    - 'index.md'
+    - 'communities.md'
+  - Information for Lab Members:
+    - Joining the Lamontagne Lab: 'information/joining.md'
+    - Checklist for New Lab Members: 'information/onboarding.md'
+    - Degree Requirements and Course Recommendations: 'information/degree.md'
+    - University Resources: 'information/univ.md'
+    - Expectations:
+        - General Expectations: 'information/expectations/expectations.md'
+        - Lab Policies: 'information/expectations/policies.md'
+        - Best Practices: 'information/expectations/bestpractices.md'
+  - Knowledge Base:
+    - HPC Cluster Information: 'knowledge/cluster.md'
+    - Recommended Reading List for Lab Members: 'knowledge/reading.md'
