@@ -3,4 +3,5 @@ nav:
     - index.md
     - communities.md
   - Information for Lab Members: 'information'
+    -  Expectations and Lab Policies: 'expectations'
   - Knowledge Base: 'knowledge'

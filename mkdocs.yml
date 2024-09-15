@@ -8,7 +8,10 @@ theme:
   name: material
   palette:
     primary: blue
-  features:
+  icon:
+    logo:
+    repo: fontawesome/brands/github
+  features: fontawesome/solid/fa-users-rectangle
     - navigation.instant
     - navigation.tabs
     - navigation.tabs.sticky
@@ -20,6 +23,6 @@ theme:
     - content.code.annotate
 
 markdown_extensions:
-  - pymdownx.emoji:
-    emoji_index: !!python/name:materialx.emoji.twemoji
-    emoji_generator: !!python/name:materialx.emoji.to_svg
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
