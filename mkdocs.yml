@@ -8,3 +8,18 @@ theme:
   name: material
   palette:
     primary: blue
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.indexes
+    - search.highlight
+    - content.code.annotate
+
+markdown_extensions:
+  - pymdownx.emoji:
+    emoji_index: !!python/name:material.extensions.emoji.twemoji
+    emoji_generator: !!python/name:material.extensions.emoji.to_svg
