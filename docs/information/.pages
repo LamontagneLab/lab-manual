@@ -1,0 +1,7 @@
+nav:
+  - Home:
+    - index.md
+    - joining.md
+    - onboarding.md
+    - information/degree.md
+    - univ.md
