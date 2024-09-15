@@ -1,1 +1,1 @@
-# Research Communities the Lab Engages With
+# Research Communities

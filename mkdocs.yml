@@ -11,7 +11,7 @@ theme:
   icon:
     logo:
     repo: fontawesome/brands/github
-  features: fontawesome/solid/fa-users-rectangle
+  features: fontawesome/solid/users-rectangle
     - navigation.instant
     - navigation.tabs
     - navigation.tabs.sticky
