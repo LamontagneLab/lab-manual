@@ -1,1 +1,1 @@
-# Information for Current, New, and Prospective Lab Members
+# Information for Lab Members
