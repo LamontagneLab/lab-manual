@@ -1,7 +1,6 @@
 nav:
-    - Home: 
-        - index.md
-        - Research Communities: communities.md
-    - Information for Lab Members: 'information'
-        -  Expectations and Lab Policies: 'expectations'
-    - Knowledge Base: 'knowledge'
+  - Home: 
+    - index.md
+    - communities.md
+  - Information for Lab Members: 'information'
+  - Knowledge Base: 'knowledge'
