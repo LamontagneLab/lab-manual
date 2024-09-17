@@ -5,6 +5,9 @@ theme:
   name: material
   palette:
     primary: blue
+  font:
+    text: Roboto
+    code: Courier New
   icon:
     logo: fontawesome/solid/users-rectangle
   features:
